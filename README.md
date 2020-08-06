@@ -9,3 +9,4 @@ This is a CRUD application for a barbershop (or any business that requires regis
 -EXPRESS
 -MULTER
 -SEQUELIZE 
+-DOCKER
